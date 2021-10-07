@@ -2,7 +2,14 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/profile/my-data/list/[id]": "pages/profile/my-data/list/[id].js",
-  "/registration/step-a/[step]": "pages/registration/step-a/[step].js"
+  "/en/404": "pages/en/404.html",
+  "/sr/404": "pages/sr/404.html",
+  "/en/500": "pages/en/500.html",
+  "/sr/500": "pages/sr/500.html",
+  "/en/registration/step-a/[step]": "pages/en/registration/step-a/[step].html",
+  "/sr/registration/step-a/[step]": "pages/sr/registration/step-a/[step].html",
+  "/en/profile/my-data/list/[id]": "pages/en/profile/my-data/list/[id].html",
+  "/sr/profile/my-data/list/[id]": "pages/sr/profile/my-data/list/[id].html",
+  "/en": "pages/en.html",
+  "/sr": "pages/sr.html"
 }

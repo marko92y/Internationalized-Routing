@@ -1,43 +1,44 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "devFiles": [],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/2YdWbsoftj2-oJUSKLeG8/_buildManifest.js",
+    "static/2YdWbsoftj2-oJUSKLeG8/_ssgManifest.js"
   ],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-fb76148cfcfb42ca18eb.js",
+      "static/chunks/framework-895f067827ebe11ffe45.js",
+      "static/chunks/main-cbf34559d6ce5e859ed7.js",
+      "static/chunks/pages/index-28a75d40a87dfe00ba5e.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-fb76148cfcfb42ca18eb.js",
+      "static/chunks/framework-895f067827ebe11ffe45.js",
+      "static/chunks/main-cbf34559d6ce5e859ed7.js",
+      "static/css/55b3fe0a0a0715c21672.css",
+      "static/chunks/pages/_app-ffd4aa0a0a246c63defd.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-fb76148cfcfb42ca18eb.js",
+      "static/chunks/framework-895f067827ebe11ffe45.js",
+      "static/chunks/main-cbf34559d6ce5e859ed7.js",
+      "static/chunks/pages/_error-737a04e9a0da63c9d162.js"
     ],
     "/profile/my-data/list/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/profile/my-data/list/[id].js"
+      "static/chunks/webpack-fb76148cfcfb42ca18eb.js",
+      "static/chunks/framework-895f067827ebe11ffe45.js",
+      "static/chunks/main-cbf34559d6ce5e859ed7.js",
+      "static/chunks/pages/profile/my-data/list/[id]-9b4d9091e9da45f7c064.js"
     ],
     "/registration/step-a/[step]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/registration/step-a/[step].js"
+      "static/chunks/webpack-fb76148cfcfb42ca18eb.js",
+      "static/chunks/framework-895f067827ebe11ffe45.js",
+      "static/chunks/main-cbf34559d6ce5e859ed7.js",
+      "static/chunks/pages/registration/step-a/[step]-5af2b64d3526a3642f47.js"
     ]
   },
   "ampFirstPages": []
