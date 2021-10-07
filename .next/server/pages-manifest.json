@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/profile/my-data/list/[id]": "pages/profile/my-data/list/[id].js",
+  "/registration/step-a/[step]": "pages/registration/step-a/[step].js"
+}
